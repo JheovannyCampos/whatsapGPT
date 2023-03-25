@@ -1,0 +1,17 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
+    "venom-bot": "^4.3.7"
+  }
+}
